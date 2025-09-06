@@ -1,6 +1,7 @@
 # CompTIA A+ Notes 220-1201 Core 1 Training Course (Professor Messer)
 
-This repository contains my personal study notes for the **CompTIA A+ certification**, based on [Professor Messer's YouTube channel](https://www.professormesser.com/).  
+This repository contains my personal study notes for the **CompTIA A+ certification**, based on [Professor Messer's YouTube channel](https://www.professormesser.com/). 
+This repo does NOT contain any of the paid version notes.  
 All notes were written in **Obsidian**, so the structure makes use of Markdown, internal links, and graph view references.
 
 ## 📚 Content
