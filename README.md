@@ -29,6 +29,9 @@ Use them as supplementary study material. For full exam prep, always refer to th
 2. Open the folder as a **vault in Obsidian** for the best experience or import to your existing Obsidian vault by copying the folders into your vault. 
 3. Navigate using internal links or graph view  
 
+## Obsidian plugins used so notes can be properly rendered:
+1. Excalidraw
+
 ---
 
 ✍️ Maintained by: **[Γιάννης](https://github.com/glarobats)**  
