@@ -18,10 +18,9 @@ All notes were written in **Obsidian**, so the structure makes use of Markdown, 
 
 ## ⚠️ Disclaimer
 
-These notes are **not official CompTIA material**.  
-They are **personal study notes** created while watching Professor Messer’s free YouTube lectures.  
-
-Use them as supplementary study material. For full exam prep, always refer to the official CompTIA objectives and resources.
+- This repository contains personal study notes for educational purposes. Some content is based on Professor Messer's YouTube videos and slides and remains the intellectual property of the original creator. 
+- All original notes, summaries, organization, and formatting by Ioannis Kondylis are shared under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+- Do not redistribute Professor Messer’s slides or any copyrighted material. Use these notes as supplementary study material only.
 
 ## ✅ How to Use
 
