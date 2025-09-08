@@ -5,7 +5,6 @@ Teacher: Professor Messer
 Exam Code: 220-1201
 Difficulty: Easy
 Topic: Index
-URL:
 ---
 ### 1. Mobile Devices
 - [[1.10 - Laptop Hardware|Laptop Hardware]]
