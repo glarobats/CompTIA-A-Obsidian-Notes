@@ -18,3 +18,9 @@ Topic: Index
 - [[2.20 - Wireless Network Technologies|Wireless Network Technologies]]
 - [[2.30 - Network Services|Network Services]]
 - [[2.40 - DNS Configuration|DNS Configuration]]
+- [[2.41 - DHCP|DHCP]]
+- [[2.42 - VLAN's and VPN's|VLAN's and VPN's]]
+- [[2.50 - Network devices|Network devices]]
+- [[2.60 – IPv4 and IPv6|IPv4 and IPv6]]
+- [[2.61 - Assigning IP Addresses|Assigning IP Addresses]]
+
