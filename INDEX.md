@@ -17,3 +17,4 @@ Topic: Index
 - [[2.11 - Common Ports|Common Ports]]
 - [[2.20 - Wireless Network Technologies|Wireless Network Technologies]]
 - [[2.30 - Network Services|Network Services]]
+- [[2.40 - DNS Configuration|DNS Configuration]]
