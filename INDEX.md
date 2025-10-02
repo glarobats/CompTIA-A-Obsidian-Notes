@@ -7,20 +7,21 @@ Difficulty: Easy
 Topic: Index
 ---
 ### 1. Mobile Devices
-- [[1.10 - Laptop Hardware|Laptop Hardware]]
-- [[1.20 - Connecting Mobile Devices|Connecting Mobile Devices]]
-- [[1.21 - Mobile Device Accessories|Mobile Device Accessories]]
-- [[1.30 – Mobile Device Networks|Mobile Device Networks]]
-- [[1.31 - Mobile Device Management|Mobile Device Management]]
-### 2. Networking
-- [[2.10 - Introduction to IP|Introduction to IP]]
-- [[2.11 - Common Ports|Common Ports]]
-- [[2.20 - Wireless Network Technologies|Wireless Network Technologies]]
-- [[2.30 - Network Services|Network Services]]
-- [[2.40 - DNS Configuration|DNS Configuration]]
-- [[2.41 - DHCP|DHCP]]
-- [[2.42 - VLAN's and VPN's|VLAN's and VPN's]]
-- [[2.50 - Network devices|Network devices]]
-- [[2.60 – IPv4 and IPv6|IPv4 and IPv6]]
-- [[2.61 - Assigning IP Addresses|Assigning IP Addresses]]
 
+```dataview
+LIST
+FROM "CompTIA A+/1 - Mobile Devices"
+	WHERE file.name != "INDEX" 
+	SORT file.name ASC
+```
+
+
+### 2. Networking
+
+```dataview
+LIST
+FROM "CompTIA A+/2 - Networking"
+WHERE file.name != "INDEX"
+  AND !contains(file.path, "images")
+SORT file.name ASC
+```
