@@ -7,69 +7,120 @@ Difficulty: Easy
 Topic: Internet Connection Types
 URL:
 ---
-## Satellite networking
-### Communication to a satellites
-- Non - terrestrial communication
-### High cost relative to terrestrial networking
-- 100 Mbit/s down, 5Mbit/s down are common.
-- Remote sites, difficult-to-network sites.
-### Relatively high latency
-- Some systems have 250ms up, 250ms down.
-- Starlink advertises 25 to 60ms.
-### Not always a perfect option
-- Line of sight, rain fade.
+## Satellite Networking
+
+### Communication to Satellites
+
+- Non-terrestrial communication link between ground stations and satellites.
+    
+### High Cost Relative to Terrestrial Networking
+
+- Typical speeds: 100 Mbit/s down, 5 Mbit/s up.
+- Common for remote or hard-to-reach areas.
+    
+### High Latency
+
+- GEO systems: ~250 ms up + ~250 ms down.
+- LEO systems (e.g. Starlink): ~25–60 ms.
+    
+### Limitations
+
+- Requires clear line of sight.
+- Affected by weather (rain fade).
+
 ---
-## Fiber 
-### High speed data communication
-- Frequencies of light.
-### Higher installation cost than copper
-- Equipment is more costly.
-- More difficult to repair.
-- Communicate over long distances.
-### Large installation in the WAN core
-- Supports very high data rates.
-- SONET, wavelength division multiplexing.
-### Fiber has appears at the premises
-- Business and home use.
+
+## Fiber
+
+### High-Speed Data Communication
+
+- Uses light frequencies transmitted through glass or plastic fibers.
+    
+### High Installation and Maintenance Cost
+
+- Equipment is more expensive and harder to repair.
+- Excellent for long-distance, high-bandwidth connections.
+    
+### WAN Core Usage
+
+- Backbone of modern networks (SONET, WDM).
+    
+### Increasing Availability
+
+- Fiber-to-the-Premises (FTTP) for homes and businesses. 
+
 ---
+
 ## Cable
-### Broadband
-- Transmission across multiple frequencies.
-- Different traffic types.
-### Data on the cable network
-- DOCSIS, (Data Over Cable Service Interface Specification).
-### High speed networking
-- 50Mbits/s through 1000+Mbits/s are common.
-### Multiple services
-- Data, voice, video.
+
+### Broadband Technology
+
+- Transmits data using multiple frequencies over coaxial cable.
+    
+### DOCSIS Standard
+
+- Data Over Cable Service Interface Specification enables IP networking over TV infrastructure.
+    
+### High-Speed Access
+
+- Typical speeds: 50 Mbit/s to 1 Gbit/s+.
+    
+### Multiple Services
+
+- Supports internet, TV, and voice over the same connection.
+
 ---
-## DSL
-### ADSL (Asymmetric Digital Subscriber Line)
-- Uses telephone lines.
-### Download speed is faster than the upload speed (asymmetric)
-- 200Mbits/s downstream / 20Mbits/s upstream are common.
-- 3km limitation from the central office.
-- Faster speeds may be possible if closer to the CO.
+
+## DSL (Digital Subscriber Line)
+
+### ADSL (Asymmetric DSL)
+
+- Uses existing telephone lines for internet access.
+    
+### Asymmetric Speeds
+
+- Common speeds: up to 200 Mbit/s down / 20 Mbit/s up.
+- Speed decreases with distance — limited to ~3 km from the central office (CO).
+- Higher speeds closer to CO.
+    
+
 ---
-## Cellular network
-### Mobile devices
-- Cell phones.
-### Separate land into cells
-- Antenna covers a cell with certain frequencies.
+
+## Cellular Networks
+
+### Mobile Connectivity
+
+- Used by smartphones and mobile devices.
+    
+### Cellular Architecture
+
+- Coverage divided into cells, each served by a base station using assigned frequencies.
+    
 ### Tethering
-- Turn your phone into a wireless router.
-### Mobile hotspot
-- Standalone devices.
-- Use your phone for other things.
+
+- Share mobile data by turning a phone into a Wi-Fi hotspot.
+    
+### Mobile Hotspots
+
+- Dedicated devices that provide internet access via cellular data.
+
 ---
-## WISP
-### Wireless Internet Service provider
-- Terrestrial internet access using wireless.
-### Connect rural or remote locations
-- Internet access for everyone.
-### Many different deployment technologies
-- Meshed 802.11
-- 5G home internet.
-- Proprietary wireless.
-### Need an outdoor Antenna
-- Speeds can range from 10 to 1000 megabits /sec
+
+## WISP (Wireless Internet Service Provider)
+
+### Terrestrial Wireless Access
+
+- Provides internet over radio links instead of cables.
+    
+### Rural and Remote Coverage
+
+- Common in areas lacking wired infrastructure.
+
+### Technologies Used
+
+- Mesh 802.11, 5G home internet, proprietary radio systems.
+    
+### Requirements
+
+- Typically needs an outdoor antenna.
+- Speeds range from 10 Mbit/s to over 1 Gbit/s depending on setup.
