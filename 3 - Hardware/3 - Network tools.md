@@ -15,7 +15,6 @@ URL:
 - Used on coaxial, twisted pair, and fiber.
 - Final step before cable testing.
     
-
 #### Crimping best practices:
 - Use quality crimpers, wire strippers, and snips.
 - Match connector type to cable (solid vs stranded).
