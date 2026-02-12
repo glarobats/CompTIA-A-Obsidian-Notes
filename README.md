@@ -16,13 +16,13 @@ All notes were written in **Obsidian**, so the structure makes use of Markdown, 
 - **Obsidian** → for note-taking and graph-based knowledge management  
 - **Markdown (.md)** → portable and easy to use with GitHub  
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 - This repository contains personal study notes for educational purposes. Some content is based on Professor Messer's YouTube videos and slides and remains the intellectual property of the original creator. 
 - All original notes, summaries, organization, and formatting by Ioannis Kondylis are shared under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 - Do not redistribute Professor Messer’s slides or any copyrighted material. Use these notes as supplementary study material only.
 
-## ✅ How to Use
+## How to Use
 
 1. Clone or download this repo
 2. Open the folder as a **vault in Obsidian** for the best experience or import to your existing Obsidian vault by copying the folders into your vault. 
@@ -33,5 +33,5 @@ All notes were written in **Obsidian**, so the structure makes use of Markdown, 
 
 ---
 
-✍️ Maintained by: **[Γιάννης](https://github.com/glarobats)**  
-🎯 Goal: Passing the CompTIA A+ and sharing a structured knowledge base with others
+ Maintained by: **[Γιάννης](https://github.com/glarobats)**  
+ Goal: Passing the CompTIA A+ and sharing a structured knowledge base with others
