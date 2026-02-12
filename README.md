@@ -4,14 +4,14 @@ This repository contains my personal study notes for the **CompTIA A+ certificat
 This repo does NOT contain any of the paid version notes.  
 All notes were written in **Obsidian**, so the structure makes use of Markdown, internal links, and graph view references.
 
-## 📚 Content
+## Content
 
 - Complete topic coverage aligned with CompTIA A+ exam objectives
 - Structured notes with headings, subheadings, and internal links
 - Summaries of key concepts explained by Professor Messer
 - Quick reference material for revision
 
-## 🛠 Tools & Workflow
+## Tools & Workflow
 
 - **Obsidian** → for note-taking and graph-based knowledge management  
 - **Markdown (.md)** → portable and easy to use with GitHub  
